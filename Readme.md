@@ -64,7 +64,17 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 
 ---
+
+## BLOCK DIAGRAM
+
+<img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/4823ff15-411d-4f2d-991f-0edfcf092fae" />
+
+---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
- Result
- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a73471cd-b97b-4323-ba17-7a1257daaaa1" />
+
+## OUTPUT
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/38c5a09a-b876-48e3-b277-946ec646b8b7" />
+
+## RESULT
+Thus the results predicted by the linear system model of an optical fiber has been successfully compared with the results of the simulation and verified
